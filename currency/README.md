@@ -40,16 +40,16 @@ C:\Users\Laurene\Documents\ESILV\WAA\3-musketeers\currency>node cli 5 gbp eur
 
 
 
-##Libraries used: ------------------------------
+## Libraries used: ------------------------------
 
-###money.js :  
+### money.js :  
 Simple and tiny JavaScript library for realtime currency conversion and exchange rate calculation, from any currency, to any currency. 
 is lightweight, has no dependencies, and works great client-side or server-side. Use standalone or as a nodeJS/npm and AMD/requireJS module.
 
-###Nock :
+### Nock :
 Can be used to test modules that perform HTTP requests in isolation.
 
-###Axios : 
+### Axios : 
 Promise based HTTP client for the browser and node.js
 Features
 
@@ -62,7 +62,7 @@ Features
     Automatic transforms for JSON data
     Client side support for protecting against XSRF
 
-###Ora : 
+### Ora : 
 Elegant terminal spinner
 
 
